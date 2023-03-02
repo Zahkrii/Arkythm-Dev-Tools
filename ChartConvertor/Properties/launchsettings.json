@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "ChartConvertor (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "ChartConvertor (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
